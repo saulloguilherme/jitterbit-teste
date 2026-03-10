@@ -36,19 +36,6 @@ PUT /order/:id
 Deletar pedido
 DELETE /order/:id
 
-## Estrutura do Projeto
-
-src/
-├── controllers/
-├── services/
-├── models/
-├── routes/
-├── middlewares/
-├── validators/
-├── swagger/
-└── config/
-
-
 ## ✨ Boas Práticas Aplicadas
 
 ✔ Arquitetura em camadas (Controller → Service → Model)
